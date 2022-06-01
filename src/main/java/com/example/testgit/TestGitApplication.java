@@ -7,6 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestGitApplication {
 
     public static void main(String[] args) {
+        
+        String  s1 = "你好";
+        
         SpringApplication.run(TestGitApplication.class, args);
     }
 
